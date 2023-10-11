@@ -1,0 +1,4 @@
+cd /path/to/local/repository
+mkdir intercity
+git add intercity/*
+git commit -m "Added folder and files"
